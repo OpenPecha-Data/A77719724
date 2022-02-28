@@ -1,0 +1,19 @@
+segment_sources:
+  PD3B94381:
+    type: origin_type
+    relation: translation
+    language: en
+  PA99BD59E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ae55ea5e5c1d438285a1bbdabd30f7c3:
+    PD3B94381: 17a716938c5c4657a4c0ce0aee7a2bc2
+    PA99BD59E: 41d7a9fc8afc494599cb912f957d621e
+  1c13f51b918e4045a9d14ecafaa96c76:
+    PD3B94381: ba6e171254184b7f9f32d82a2f7771b8
+    PA99BD59E: cd3c7b67db0448deaa0fbd4becf5fe8b
+  237d33a1a028463992bbbe2b864bc103:
+    PD3B94381: 702a99c28a084361b8dfe78864a7b285
+    PA99BD59E: 789bc523de444b64909f7a855d6d7ca5

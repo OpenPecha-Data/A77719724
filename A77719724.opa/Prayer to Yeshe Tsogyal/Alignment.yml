@@ -1,0 +1,40 @@
+segment_sources:
+  PD3B94381:
+    type: origin_type
+    relation: translation
+    language: en
+  P46048860:
+    type: origin_type
+    relation: translation
+    language: es
+  P19968EB3:
+    type: origin_type
+    relation: translation
+    language: fr
+  PA33AEE39:
+    type: origin_type
+    relation: translation
+    language: pt
+  PA99BD59E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5e05a86c3a084770a923055d200b5696:
+    PD3B94381: 5ef710d36faa4e87a3fadfe946a8a7e5
+    P46048860: 1f66adfca1994570b2a9c9d796985e82
+    P19968EB3: 9270280081304dbba2f1b016520e4c7f
+    PA33AEE39: 4fe230ba2fdc439aac4fdcaa2f1e0772
+    PA99BD59E: ac71bdbd363d45c29f102095f8f8e0b9
+  493423650ace4bdf9af955598bc1ec50:
+    PD3B94381: 2fbc6b6ba9c24e0a8762849599b7acc3
+    P46048860: d1b460ddaccd445fa45b54fbad4f054d
+    P19968EB3: 5e8df4c09b314f8fb5e3389cd3ae782e
+    PA33AEE39: c2f60d5bed7a4244bfeffe120831a351
+    PA99BD59E: 19fc62f97a9f422e8865abd764ad54d6
+  83ddb1651c904c6d80ec596c361cf612:
+    PD3B94381: 4508348e81b9482f8a0b7c93a375eae9
+    P46048860: 3a127c43bbf04a3c939b871781d501d7
+    P19968EB3: 66fc35735c3a4fd0aac66509717f3f74
+    PA33AEE39: de47a35ecfee4416b85ed0643917bda3
+    PA99BD59E: 5d21f85193284e76a410d028248c1795
